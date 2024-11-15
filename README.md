@@ -4,5 +4,10 @@ Titanic Survival ML Project
 Files Description:
 
 1) **data_exploration.ipynb:** Contains data exploration and preprocessing steps to prepare the data for modeling.
-2) **ml_models_1.ipynb:** Implement ML models and predictions.
-3) **rf_pred.csv:** File with predictions for test dataset using Random Forest model.RF was the model selected as it was the one with the best performance. The file has 2 columns IdPassenger and Survived.
+2) **data_preprocessing:** Preprocessing steps to prepare the data for modeling.
+3) **ml_models_1.ipynb:** Implementation of ML models and predictions.
+4) **lg.csv:** Logistic Regression prediction to Test dataset, format based on Kaggle submission (PassengerId, Survived).
+5) **rf.csv:** Random Forest prediction to Test dataset, format based on Kaggle submission (PassengerId, Survived).
+6) **ada.csv:** Ada Boost prediction to Test dataset, format based on Kaggle submission (PassengerId, Survived).
+
+   
